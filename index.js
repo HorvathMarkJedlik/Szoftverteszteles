@@ -1,3 +1,3 @@
-module.exports = function NegativSzam(number){
-    return number <= 0;
+module.exports = function NegativSzam(szam){
+    return szam <= 0;
 }
