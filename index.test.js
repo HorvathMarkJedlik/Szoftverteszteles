@@ -4,7 +4,7 @@ test('A megadott szám negatív', () => {
     expect(NegativSzam(-5)).toBe(true); 
 });
 
-test('A megadott szám pozitív', () => {
+test('A megadott szám negatív', () => {
     expect(NegativSzam(5)).toBe(false); 
 });
 
